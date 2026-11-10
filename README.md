@@ -1,7 +1,7 @@
 # Marketing Agent Web
 
 A React and TypeScript reference application for embedding an authenticated
-Microsoft Copilot Studio agent in a custom web page.
+Microsoft Copilot Studio agent built using the copilot harness (ghcp) in a custom web page.
 
 The application uses:
 
